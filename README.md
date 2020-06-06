@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/screenshots/themes/creative.png)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![Creative Preview](https://raw.githubusercontent.com/paulmspessoa/explain-br/master/img/mockup-home.png)](http://explain.surge.sh//)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+**[View Live Preview](http://explain.surge.sh/)**
 
 ## Status
 
